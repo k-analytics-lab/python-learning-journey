@@ -1,11 +1,9 @@
 # python-learning-journey
 
-# Python Beginner Projects
-
 This repository contains small Python projects I built while learning.
 
 ## Projects
-- Calculator (in progress)
+- Calculator 
 
 ## Skills
 - Variables
