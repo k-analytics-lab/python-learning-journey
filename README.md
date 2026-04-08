@@ -6,6 +6,7 @@ This repository contains small Python projects I built while learning.
 - Calculator
 - Countdown timer
 - Shopping Cart
+- To Do List
 
 ## Skills
 - Variables
